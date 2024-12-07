@@ -1,0 +1,25 @@
+{
+  "semester_start": "2024-09-01",
+  "semester_end": "2024-12-30",
+  "disciplines": {
+    "Mathematics": [
+      {
+        "lab_work_number": 1,
+        "deadline": "2024-03-15",
+        "status": "incomplete"
+      },
+      {
+        "lab_work_number": 2,
+        "deadline": "2024-04-10",
+        "status": "complete"
+      }
+    ],
+    "Physics": [
+      {
+        "lab_work_number": 1,
+        "deadline": "2024-03-25",
+        "status": "complete"
+      }
+    ]
+  }
+}
